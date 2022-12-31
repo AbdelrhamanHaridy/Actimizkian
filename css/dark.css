@@ -2,7 +2,8 @@
 .process-wrap-layout2, .newsletter-wrap-layout1,
 .contact-wrap-layout2, .blog-single-wrap,
 .gallery-wrap-layout3, .portfolio-wrap-layout1,
-.speaker-wrap-layout5, .about-wrap-layout1 {
+.speaker-wrap-layout5, .about-wrap-layout1,
+.schedule-wrap-layout2 {
   background-color: #0C0324 !important;
 }
 section.blog-grid-wrap {
@@ -91,4 +92,16 @@ ul.pagination-layout1 li a {
 }
 .inner-page-banner {
   min-height: 300px !important;
+}
+.schedule-wrap-layout2 .heading-box .content-box .title,
+.schedule-wrap-layout2 .heading-box .content-box .sub-title {
+  color: #fff !important;
+}
+.about-wrap-layout3 .about-box-layout3 .content-box1 .title,
+.about-wrap-layout3 .about-box-layout3 .content-box2 .title{
+  color: #0E4EFF;
+}
+.about-wrap-layout3 .about-box-layout3 .content-box1 .description,
+.about-wrap-layout3 .about-box-layout3 .content-box2 .description {
+  color: #999;
 }
